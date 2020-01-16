@@ -10,11 +10,11 @@ int main()
 
 {
 
-	string name1="your name1";
+	string name1="mateen zadeh";
 
 	hello1Function(name1);
 
-	string name2="your name2";
+	string name2="billy magdangal";
 
 	hello2Function(name2);
 
